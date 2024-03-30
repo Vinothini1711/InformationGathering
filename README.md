@@ -23,11 +23,16 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ### WHO IS
-![WhatsApp Image 2023-08-28 at 11 50 27](https://github.com/Sanjay-2610/InformationGathering/assets/91368803/5d66420b-fe49-42a0-9988-19c6e287a30c)
+![Screenshot 2024-03-26 082354](https://github.com/Vinothini1711/InformationGathering/assets/144300204/2d7d13a7-40b7-4c7b-837a-317abc80ba1a)
+![Screenshot 2024-03-26 082426](https://github.com/Vinothini1711/InformationGathering/assets/144300204/2b0260ff-0c1e-4f6f-9e53-f4e36a49d177)
+![Screenshot 2024-03-26 082513](https://github.com/Vinothini1711/InformationGathering/assets/144300204/af0a5e9f-c385-480c-8323-a48b1f8bdc21)
 ### IP2LOCATION
-![WhatsApp Image 2023-08-28 at 11 50 27 (2)](https://github.com/Sanjay-2610/InformationGathering/assets/91368803/3da248db-3ff8-481c-b11a-49eb33225163)
+![Screenshot 2024-03-26 082513](https://github.com/Vinothini1711/InformationGathering/assets/144300204/af0a5e9f-c385-480c-8323-a48b1f8bdc21)
+
 ### WEB ARCHIVE
-![WhatsApp Image 2023-08-28 at 11 50 27 (3)](https://github.com/Sanjay-2610/InformationGathering/assets/91368803/bb25ed9e-6ed4-4b96-a879-cbf70f752794)
+![Screenshot 2024-03-26 084645](https://github.com/Vinothini1711/InformationGathering/assets/144300204/38832375-00b5-4d98-be8a-4fb5f4f4d369)
+![Screenshot 2024-03-26 084802](https://github.com/Vinothini1711/InformationGathering/assets/144300204/3a0ae0c6-f819-480b-804c-f25031ae06f2)
+![Screenshot 2024-03-26 084846](https://github.com/Vinothini1711/InformationGathering/assets/144300204/34c61d35-a813-45d2-acf0-2975a98b225b
 
 ### NMAP
 ![image](https://github.com/Sanjay-2610/InformationGathering/assets/91368803/d454468d-f5b5-4d3e-a4f9-9814c5a5ca6f)
