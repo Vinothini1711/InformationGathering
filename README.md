@@ -32,7 +32,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### WEB ARCHIVE
 ![Screenshot 2024-03-26 084645](https://github.com/Vinothini1711/InformationGathering/assets/144300204/38832375-00b5-4d98-be8a-4fb5f4f4d369)
 ![Screenshot 2024-03-26 084802](https://github.com/Vinothini1711/InformationGathering/assets/144300204/3a0ae0c6-f819-480b-804c-f25031ae06f2)
-![Screenshot 2024-03-26 084846](https://github.com/Vinothini1711/InformationGathering/assets/144300204/34c61d35-a813-45d2-acf0-2975a98b225b
+![Screenshot 2024-03-26 084846](https://github.com/Vinothini1711/InformationGathering/assets/144300204/34c61d35-a813-45d2-acf0-2975a98b225b).
 
 ### NMAP
 ![image](https://github.com/Sanjay-2610/InformationGathering/assets/91368803/d454468d-f5b5-4d3e-a4f9-9814c5a5ca6f)
